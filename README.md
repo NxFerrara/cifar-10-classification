@@ -19,7 +19,7 @@ This project was developed and tested on Kaggle. Follow these steps to reproduce
 
 - `cifar-10-classification.ipynb`: Main notebook containing the code for model definition, training, and evaluation
 - `README.md`: This file, containing setup instructions
-- `report.pdf`: Project report detailing our methodology and results
+- `Deep_Learning_Project_1_Report.pdf`: Project report detailing our methodology and results
 - `submission.csv`: Submission file for the competition
 
 ## Running the Code
